@@ -1,4 +1,12 @@
-## Hi there 👋
+## genius, billionaire, playboy, philanthropist
+
+### My Skills
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,go,html,css,swift)](https://skillicons.dev)
+#### Systems
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,bash,arch,ubuntu,debian,redhat,kali,vim,vscode,windows,powershell,apple)](https://skillicons.dev)
+### Services
+[![My Skills](https://skillicons.dev/icons?i=docker,github,git,obsidian,azure,cloudflare)](https://skillicons.dev)
 
 <!--
 **adenhilde/adenhilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
